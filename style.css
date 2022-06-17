@@ -1,0 +1,151 @@
+.header{
+    min-height: 100px;
+    background-color: rgb(161, 48, 48);
+    display: block;
+    overflow: hidden;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: right;
+    padding-right: 1em;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+.wrapper{
+    padding-left: 100px;
+    overflow: hidden;
+    margin: 8px;
+
+}
+.profile{
+    display:inline;
+    float: left;
+    min-height: 100px;
+    width: 30%;
+    padding: 5px 2px;
+}
+.information{
+    float: right;
+    display: inline;
+    background-color: rgb(182, 224, 139);
+    min-height: 200px;
+    width: 52%;
+    margin: 1em 1em;
+    vertical-align: middle;
+    font-size: 2em;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: rgba(20, 1, 13, 0.358) 5px 5px, rgba(13, 0, 8, 0.3) 10px 10px, rgba(14, 1, 9, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.footer{
+    background-color: rgb(242, 233, 233);
+    min-height: 100px;
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .h1{
+    font-size: 1em;
+    width: 30%;
+    display:inline;
+    color: #0b2a5a;
+}
+.h2{
+    font-size: 2em;
+    width: 30%;
+    display:inline;
+    color:blue;
+}
+.h3{
+    font-size: 4em;
+    width: 40%;
+    display:inline;
+    color:red;
+}
+.h4{
+    font-size: 5em;
+    width: 30%;
+    display:inline;
+    color: rgb(201, 196, 255);
+}
+.h5{
+    font-size: 6em;
+    width: 40%;
+    display:inline;
+    color: rgb(49, 21, 207);
+}
+.h6{
+    font-size: 7em;
+    width: min-width;
+    display:inline;
+    color: crimson;
+}
+.h7{
+    font-size: 8em;
+    width: 30%;
+    display:inline;
+    color: blue;
+}
+.h8{
+    font-size: 9em;
+    width: 40%;
+    font-size: 3em;
+    display:inline;
+    color: green;
+}
+.h9{
+    font-size: 2em;
+    width: 50%;
+    display:inline;
+    color: rgb(10, 66, 171);
+    display: block;
+    display: inline-block;
+}
+.h10{
+    width: 50%;
+    display:inline;
+    color: darkred;
+} */
